@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "estrazione numeri e aggiornamento tabellone", "estrazione numeri e aggiornamento tabellone\estrazione numeri e aggiornamento tabellone.csproj", "{E4F163F8-5DBA-41E2-9532-66A97731E9FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4F163F8-5DBA-41E2-9532-66A97731E9FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4F163F8-5DBA-41E2-9532-66A97731E9FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4F163F8-5DBA-41E2-9532-66A97731E9FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4F163F8-5DBA-41E2-9532-66A97731E9FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6429B587-5755-4A4F-9038-7455DBA145EA}
+	EndGlobalSection
+EndGlobal
